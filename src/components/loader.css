@@ -1,0 +1,18 @@
+@font-face {
+    font-family: domaine;
+    src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
+}
+.load-head{
+    font-size: 2em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: domaine;
+}
+
+.small-text-load{
+    text-align: center;
+    font-family: domaine;
+    font-size: 0.4em;
+}

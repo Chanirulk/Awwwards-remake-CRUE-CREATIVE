@@ -1,0 +1,19 @@
+@font-face {
+    font-family: domaine;
+    src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
+}
+.header-sl-new{
+    position: absolute;
+    font-family: domaine;
+    text-transform: uppercase;
+    font-size: 10em;
+    top: 68%;
+    left: 5%;
+}
+.end-tezxt{
+    position: absolute;
+    font-size: 1.2em;   
+    font-family: domaine;
+    top: 2%;
+    left: 25%;
+}

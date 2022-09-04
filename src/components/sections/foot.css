@@ -1,0 +1,21 @@
+@font-face {
+    font-family: domaine;
+    src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
+}
+.credit{
+    position: absolute;
+    font-family: domaine;
+    font-size: 1.5em;
+    color: whitesmoke;
+    left: 10%;
+}
+.link-ig{
+    position: absolute;
+    font-family: domaine;
+    font-size: 1.5em;
+    color: whitesmoke;
+    right: 10%;
+}
+.link-ig a{
+    font-family: Arial, Helvetica, sans-serif;
+}

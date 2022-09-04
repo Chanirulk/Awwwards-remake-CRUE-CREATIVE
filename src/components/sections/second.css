@@ -1,0 +1,181 @@
+@font-face {
+    font-family: domaine;
+    src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
+}
+.acros-left{
+    position: absolute;
+    font-family: domaine;
+    font-size: 5em;
+    text-transform: uppercase;
+    text-align: left;
+    top: 80%;
+    left: 2%;
+    line-height: 70px;
+}
+.prod-one{
+    position: absolute;
+    left: 5%;
+    top: 40%;
+    height: auto;
+    width: 300px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-one:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-one{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 5%;
+    top: 32%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-two{
+    position: absolute;
+    right: 5%;
+    top: 20%;
+    height: auto;
+    width: 300px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-two:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-two{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    right: 5%;
+    top: 15%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-three{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    height: auto;
+    width: 300px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-three:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-three{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 30%;
+    top: 15%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-four{
+    position: absolute;
+    left: 30%;
+    top: 60%;
+    height: auto;
+    width: 350px;
+}
+.prod-text-four{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 45%;
+    top: 54%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-five{
+    position: absolute;
+    left: 60%;
+    top: 6%;
+    height: 270px;
+    width: auto;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-five:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-five{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 55%;
+    top: 3%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-six{
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    height: 270px;
+    width: auto;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-six:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-six{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 70%;
+    top: 50%;
+    position: absolute;
+    text-decoration: none;
+}
+.prod-seven{
+    position: absolute;
+    left: 80%;
+    top: 60%;
+    height: 270px;
+    width: auto;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: 0.5s ease-in-out;
+}
+.prod-seven:hover{
+    filter: none;
+    -webkit-filter: grayscale(0);
+    transition: 0.5s ease-in-out;
+}
+.prod-text-seven{
+    font-family: domaine;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    left: 86%;
+    top: 58%;
+    position: absolute;
+    text-decoration: none;
+}
